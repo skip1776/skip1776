@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am an Assistive Technology Specialist and maker from Pittsburgh.
+I am currently learning Python and exploring micro:bit, Parrot drones, and iRoot Robots.
+I am new to coding and still feeling my way through GitHub.
 <!--
 **skip1776/skip1776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
